@@ -28,9 +28,7 @@ This project investigates how machine learning can enhance early stroke risk pre
 # Results and Discussion
 
 # Final Model
-| Model | Dataset | Threshold | Reasoning |
-|---|---|---|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
+
 
 # 🚀 Deployment Considerations
 - Can be integrated into hospital Electronic Health Record (EHR) systems
