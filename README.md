@@ -1,0 +1,2 @@
+# Stroke-Prediction-Using-ML-Identifying-Key-Risk-Factors
+This project investigates how machine learning can enhance early stroke risk prediction in real-world scenarios where data is limited and imbalanced. Using models such as Random Forest, K-Nearest neighbor, Decision Tree, and Logistic Regression, the study aims to classify stroke cases and identify key risk factors influencing stroke occurrence.
