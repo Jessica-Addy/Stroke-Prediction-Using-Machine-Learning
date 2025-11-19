@@ -18,15 +18,23 @@ Stroke is one of the leading causes of mortality and long-term disability worldw
 
 # 🧪 Methods
 
-<img width="1035" height="512" alt="image" src="https://github.com/user-attachments/assets/c23c0fbe-3b58-4524-ba33-d4bd99d44f8c" />
 
 
-# Final Model
-<img width="391" height="387" alt="image" src="https://github.com/user-attachments/assets/b6aadd2f-767c-4e64-a0e3-c6a087853454" />
+# 📈 Final Model
+<img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/9597737d-084d-4050-b71d-86c3305bed83" />
 
+Overall, age and cardiovascular health conditions are the strongest predictors of stroke risk in your model.
+<img width="632" height="308" alt="image" src="https://github.com/user-attachments/assets/eb630ff0-432d-42c7-86db-03a107e62a69" />
 
-# 🚀 Deployment Considerations
+# 🚀 Deployment 
 - Can be integrated into hospital Electronic Health Record (EHR) systems
 - Supports interoperability with wearable devices for continuous health monitoring
+
+# 📚 References
+References
+- Glucose-Level Interpretation: https://www.cdc.gov/diabetes/basics/getting-tested.html
+- BMI Interpretation: https://www.nhs.uk/common-health-questions/lifestyle/what-is-the-body-mass-index-bmi/
+- ChatGPT (2023)
+
 
 
