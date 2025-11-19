@@ -17,7 +17,7 @@ Stroke is one of the leading causes of mortality and long-term disability worldw
 ⚠️ Only 4% of patients had a stroke, making class imbalance a major challenge.
 
 # 🧪 Methods
-
+<img width="1152" height="645" alt="image" src="https://github.com/user-attachments/assets/3afae0f2-5424-413c-a1ef-859be7c6adc5" />
 
 
 # 📈 Final Model
