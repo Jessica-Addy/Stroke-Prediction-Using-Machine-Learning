@@ -17,11 +17,9 @@ Stroke is one of the leading causes of mortality and long-term disability worldw
 ⚠️ Only 4% of patients had a stroke, making class imbalance a major challenge.
 
 # 🧪 Methods
-<img width="1152" height="645" alt="image" src="https://github.com/user-attachments/assets/3afae0f2-5424-413c-a1ef-859be7c6adc5" />
-
+<img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/9597737d-084d-4050-b71d-86c3305bed83" />
 
 # 📈 Final Model
-<img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/9597737d-084d-4050-b71d-86c3305bed83" />
 
 Overall, age and cardiovascular health conditions are the strongest predictors of stroke risk in your model.
 <img width="632" height="308" alt="image" src="https://github.com/user-attachments/assets/eb630ff0-432d-42c7-86db-03a107e62a69" />
