@@ -20,6 +20,8 @@ Stroke is one of the leading causes of mortality and long-term disability worldw
 <img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/9597737d-084d-4050-b71d-86c3305bed83" />
 
 # 📈 Final Model
+<img width="581" height="667" alt="image" src="https://github.com/user-attachments/assets/e7ebc764-c987-4719-a1ab-621f37959182" />
+
 
 Overall, age and cardiovascular health conditions are the strongest predictors of stroke risk in your model.
 <img width="632" height="308" alt="image" src="https://github.com/user-attachments/assets/eb630ff0-432d-42c7-86db-03a107e62a69" />
